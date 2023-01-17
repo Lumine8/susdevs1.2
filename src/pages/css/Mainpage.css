@@ -1,0 +1,33 @@
+#home-section .img{
+    display:block;
+    color: #000000;
+    height: 23rem;
+    width: auto;
+    margin: auto;
+    padding-top: 10rem;
+  }
+
+  #home-section .heading{
+    color: #e2b714;
+    display: flex;
+    padding: 7rem 2rem;
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+  }
+#background-video {
+    min-width: 100%;
+    min-height: 100%;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    background-size: cover;
+    background-attachment: scroll;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -100;
+    filter: blur(2px);
+  }
