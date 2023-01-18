@@ -36,6 +36,25 @@ class Mainpage extends React.Component{
       <h1 className="heading" >We are &nbsp;<span id="words">Developers</span>.</h1>
     </div>
     </section>
+    
+
+    <section id="About-us-section">
+    <div className="text"><div className="container">
+      We are a group of avid student developers, who share the vision of helping those who are burdened.
+      <br/> Mentally, that is.
+      <br/> To listen to those who need someone to listen.
+      <br/><br/>
+      Our primary objective is to build platforms on which people can express themselves. Not the sort of things you'll find on public forums, but rather those things that you just need to get off your chest.
+      <br/>In a world where masses are driven to self-harm, drugs and other means of relief, we are trying to build solutions that can help folks understand the importance of mental health.
+      <br/><br/><div  style={{color: "#e2b714"}}>
+      Join us on our journeys and reach out! We would love to hear your thoughts and opinions.
+      </div>
+      
+    </div>
+    
+    </div>
+    </section>
+
     </>
     )
     }
