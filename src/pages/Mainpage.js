@@ -20,6 +20,7 @@ import image from '../Assets/sus-devs-logos/png/logo-no-background.png'
   
 
 class Mainpage extends React.Component{
+  
     componentDidMount () {
         const script = document.createElement("script");
         script.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js";
