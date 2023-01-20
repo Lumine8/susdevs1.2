@@ -1,15 +1,15 @@
 import './css/Blogs.css'
 import video from '../Assets/videos/video1.mp4'
+import './css/sliderBlog.css'
 
 function Blogs(){
-    
-
     return(
         <>
          <video src={video} id="background-video" autoPlay loop muted typeof='video/mp4'/>
     <header>
   <h1 style={{paddingBottom:'3rem', textAlign:'center', fontSize:'2rem'}}>Articles / Blogs</h1>
 </header>
+
 <div className="band">
   <div className="item-1">
     <a href="https://www.yuumeiart.com/blog" target={'_blank'} className="card">
