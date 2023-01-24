@@ -40,7 +40,12 @@ class Mainpage extends React.Component{
     
 
     <section id="About-us-section">
-    <div className="text"><div className="container">
+      
+    <div className="text">
+      <div className="container">
+      <div style={{textAlign:'center', paddingBottom:'1.5rem', marginTop:'-4rem', fontSize:'2rem',color:'#e2b714'}}>
+      ABOUT US
+      </div>
       We are a group of avid student developers, who share the vision of helping those who are burdened.
       <br/> Mentally, that is.
       <br/> To listen to those who need someone to listen.
