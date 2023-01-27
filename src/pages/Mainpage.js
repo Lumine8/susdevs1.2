@@ -43,7 +43,7 @@ class Mainpage extends React.Component{
       
     <div className="text">
       <div className="container">
-      <div style={{textAlign:'center', paddingBottom:'1.5rem', marginTop:'-4rem', fontSize:'2rem',color:'#e2b714'}}>
+      <div className="h1" style={{textAlign:'center', paddingBottom:'1.5rem', marginTop:'-4rem', fontSize:'2rem',color:'#e2b714'}}>
       ABOUT US
       </div>
       We are a group of avid student developers, who share the vision of helping those who are burdened.

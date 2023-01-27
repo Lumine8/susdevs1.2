@@ -66,6 +66,50 @@ body{
     text-align: center;
   }
 
+
+  #About-us-section .h1 {
+    font-size: calc( 1em + 30vmin );
+    font-weight: 400;
+    
+    --x-offset: -0.0625em;
+    --y-offset: 0.0625em;
+    --stroke: 0.025em;
+    --background-color: rgba(255, 255, 255, 0.068);
+    --stroke-color: rgba(173, 216, 230, 0.582);
+    
+    text-shadow: 
+      
+      var(--x-offset)
+      var(--y-offset)
+      0px
+      var(--background-color), 
+      
+      calc( var(--x-offset) - var(--stroke) )
+      calc( var(--y-offset) + var(--stroke) )
+      0px
+      var(--stroke-color);
+    
+  }
+  @supports ( text-shadow: 1px 1px 1px 1px black ) {
+    #About-us-section  .h1 {
+      text-shadow:
+        
+        var(--x-offset)
+        var(--y-offset)
+        0px
+        0px
+        var(--background-color), 
+        
+        var(--x-offset) 
+        var(--y-offset)
+        var(--stroke)
+        0px
+        var(--stroke-color);
+      
+    }
+  }
+
+
   @media screen and (max-width:768px) {
 
     #home-section .img{
