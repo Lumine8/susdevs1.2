@@ -1,3 +1,17 @@
+# SusDevs
+<a href="https://scribehow.com/embed/Workflow__jKmsjbz3TjmP-FumkCMj_A"><img src="https://raw.githubusercontent.com/Lumine8/susdevs1.2/master/src/Assets/sus-devs-logos/png/logo-no-background.png" alt="logo" width=500></a>
+
+### Click on the logo to check out the user instructions.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+We are a group of avid student developers, who share the vision of helping those who are burdened.
+Mentally, that is.
+To listen to those who need someone to listen.
+
+Our primary objective is to build platforms on which people can express themselves. Not the sort of things you'll find on public forums, but rather those things that you just need to get off your chest.
+In a world where masses are driven to self-harm, drugs and other means of relief, we are trying to build solutions that can help folks understand the importance of mental health.
+
+<span style="color:blue">Join us on our journeys and reach out! We would love to hear your thoughts and opinions.</span>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
